@@ -9,7 +9,7 @@ if age<=30:
     pass25
 else:
     print("your age is greater than 30")
-    print("Changed line")
+    print("Changed linegit ")
 
 name=input("enter your name")
 if name:
