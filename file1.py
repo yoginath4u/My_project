@@ -1,8 +1,11 @@
 
-f=open("loop.py","r")
-f1=open("mydata.txt","w")
-print(f.readlines)
+f=open("mydata.txt","r")
+# f1=open("mydata.txt","w")
+# print(f.readline())
+# print(f.readline(2))
 
 for data in f:
-    f1.writelines(data)
+    print(f.readline())
+    # f1.writelines(data)
+
 
