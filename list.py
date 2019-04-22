@@ -14,7 +14,7 @@ names=['yogi','sunil','ravi']
 print(f"Names:{names}")
 
 mix=fruits1+names   #concat 2 list using + operator
-print(f"Mix:{mix}")
+print(f"Mix:{mix}") 
 
 college=['HNCC','BIGCE']
 
@@ -36,3 +36,7 @@ print(mix)
 
 #append,insert,extend methos to add the values to thr list
 #pop,del and remove to remove the items from list
+
+#create the list using range function
+numbers=list(range(1,10))
+print(numbers)
