@@ -6,7 +6,7 @@ if age>=30:
 age=40
 ##pass statement is used to do nothing
 if age<=30:
-    pass25
+    pass
 else:
     print("your age is greater than 30")
     print("Changed linegit ")
@@ -16,3 +16,5 @@ if name:
     print(f"your name is {name}")
 else:
     print("Please enter your name")
+
+print("Bhagawat")
